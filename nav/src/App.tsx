@@ -6,7 +6,7 @@ import "./index.css";
 
 const App = () => (
   <div className="container">
-    <div>This is TSX </div>
+    <div>This is Archit's child application </div>
     <Header />
   </div>
 );

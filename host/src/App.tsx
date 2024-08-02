@@ -7,7 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 const App = () => (
   <BrowserRouter basename="app">
     <div className="container">
-      <div>This Story Platform</div>
+      <div>This Archit's host application</div>
       <React.Suspense fallback={<div />}>
         <Header />
       </React.Suspense>
